@@ -15,6 +15,12 @@ const VARS = [
   "DP05_0037PE",
   "DP05_0071PE",
   "DP05_0038PE",
+  "DP03_0025E",
+  "DP03_0026PE",
+  "DP03_0033PE",
+  "DP03_0038PE",
+  "DP03_0095PE",
+  "DP04_0089E",
 ].join(",");
 
 module.exports = async (req, res) => {
