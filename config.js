@@ -4,5 +4,5 @@
 // (takes about 2 minutes, no approval wait, just an email address)
 // ---------------------------------------------------------------
 const CONFIG = {
-  CENSUS_API_KEY: "PUT_YOUR_CENSUS_API_KEY_HERE",
+  CENSUS_API_KEY: "69376aa219bd08fd18736d2792325b9d097c598a",
 };
