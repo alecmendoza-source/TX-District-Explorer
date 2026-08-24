@@ -1,0 +1,1645 @@
+{
+ "house": {
+  "1": [
+   {
+    "name": "Paris Junior College",
+    "city": "Paris",
+    "system": ""
+   },
+   {
+    "name": "Texarkana College",
+    "city": "Texarkana",
+    "system": ""
+   },
+   {
+    "name": "Texas A&M University-Texarkana",
+    "city": "Texarkana",
+    "system": "Texas A&M University System"
+   }
+  ],
+  "2": [],
+  "3": [
+   {
+    "name": "Lone Star College - Kingwood",
+    "city": "Kingwood",
+    "system": "Lone Star College System"
+   }
+  ],
+  "4": [
+   {
+    "name": "Trinity Valley Community College",
+    "city": "Athens",
+    "system": ""
+   }
+  ],
+  "5": [
+   {
+    "name": "Northeast Texas Community College",
+    "city": "Mount Pleasant",
+    "system": ""
+   }
+  ],
+  "6": [
+   {
+    "name": "Texas College",
+    "city": "Tyler",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas at Tyler",
+    "city": "Tyler",
+    "system": "The University of Texas System"
+   }
+  ],
+  "7": [
+   {
+    "name": "Kilgore College",
+    "city": "Kilgore",
+    "system": ""
+   },
+   {
+    "name": "LeTourneau University",
+    "city": "Longview",
+    "system": ""
+   },
+   {
+    "name": "Texas State Technical College-Marshall",
+    "city": "Marshall",
+    "system": "Texas State Technical College System"
+   },
+   {
+    "name": "Wiley University",
+    "city": "Marshall",
+    "system": ""
+   }
+  ],
+  "8": [
+   {
+    "name": "Jacksonville College",
+    "city": "Jacksonville",
+    "system": ""
+   },
+   {
+    "name": "Navarro College",
+    "city": "Corsicana",
+    "system": ""
+   }
+  ],
+  "9": [
+   {
+    "name": "Angelina College",
+    "city": "Lufkin",
+    "system": ""
+   }
+  ],
+  "10": [
+   {
+    "name": "Nelson University",
+    "city": "Waxahachie",
+    "system": ""
+   },
+   {
+    "name": "Texas State Technical College-North Texas",
+    "city": "Red Oak",
+    "system": "Texas State Technical College System"
+   }
+  ],
+  "11": [
+   {
+    "name": "Panola College",
+    "city": "Carthage",
+    "system": ""
+   },
+   {
+    "name": "Stephen F. Austin State University",
+    "city": "Nacogdoches",
+    "system": "The University of Texas System"
+   }
+  ],
+  "12": [
+   {
+    "name": "Blinn College District",
+    "city": "Brenham",
+    "system": ""
+   },
+   {
+    "name": "Sam Houston State University",
+    "city": "Huntsville",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "SHSU Polytechnic College",
+    "city": "Huntsville",
+    "system": "Texas State University System"
+   }
+  ],
+  "13": [
+   {
+    "name": "Hill College",
+    "city": "Hillsboro",
+    "system": ""
+   }
+  ],
+  "14": [
+   {
+    "name": "Texas A&M Health Science Center",
+    "city": "Bryan",
+    "system": "Texas A&M University System"
+   }
+  ],
+  "15": [
+   {
+    "name": "Lone Star College - Connect Campus",
+    "city": "The Woodlands",
+    "system": "Lone Star College System"
+   },
+   {
+    "name": "Lone Star College - Montgomery",
+    "city": "Conroe",
+    "system": "Lone Star College System"
+   }
+  ],
+  "16": [
+   {
+    "name": "Sam Houston State University College of Osteopathic Medicine",
+    "city": "Conroe",
+    "system": "Texas State University System"
+   }
+  ],
+  "17": [],
+  "18": [],
+  "19": [],
+  "20": [
+   {
+    "name": "Southwestern University",
+    "city": "Georgetown",
+    "system": ""
+   }
+  ],
+  "21": [
+   {
+    "name": "Lamar State College-Orange",
+    "city": "Orange",
+    "system": "Texas State University System"
+   }
+  ],
+  "22": [
+   {
+    "name": "Lamar Institute of Technology",
+    "city": "Beaumont",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "Lamar State College-Port Arthur",
+    "city": "Port Arthur",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "Lamar University",
+    "city": "Beaumont",
+    "system": "Texas State University System"
+   }
+  ],
+  "23": [
+   {
+    "name": "College of the Mainland Community College District",
+    "city": "Texas City",
+    "system": ""
+   },
+   {
+    "name": "Galveston College",
+    "city": "Galveston",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Medical Branch at Galveston",
+    "city": "Galveston",
+    "system": "The University of Texas System"
+   }
+  ],
+  "24": [],
+  "25": [],
+  "26": [],
+  "27": [],
+  "28": [],
+  "29": [
+   {
+    "name": "Alvin Community College",
+    "city": "Alvin",
+    "system": ""
+   }
+  ],
+  "30": [
+   {
+    "name": "Texas A&M University-Victoria",
+    "city": "Victoria",
+    "system": "Texas A&M University System"
+   },
+   {
+    "name": "Victoria College",
+    "city": "Victoria",
+    "system": ""
+   }
+  ],
+  "31": [],
+  "32": [
+   {
+    "name": "Texas A&M University-Corpus Christi",
+    "city": "Corpus Christi",
+    "system": "Texas A&M University System"
+   }
+  ],
+  "33": [],
+  "34": [
+   {
+    "name": "Del Mar College",
+    "city": "Corpus Christi",
+    "system": ""
+   }
+  ],
+  "35": [],
+  "36": [],
+  "37": [
+   {
+    "name": "The University of Texas Rio Grande Valley - Medical School",
+    "city": "Harlingen",
+    "system": "The University of Texas System"
+   }
+  ],
+  "38": [],
+  "39": [],
+  "40": [
+   {
+    "name": "The University of Texas Rio Grande Valley",
+    "city": "Edinburg",
+    "system": "The University of Texas System"
+   }
+  ],
+  "41": [
+   {
+    "name": "South Texas College",
+    "city": "McAllen",
+    "system": ""
+   }
+  ],
+  "42": [
+   {
+    "name": "Texas A&M International University",
+    "city": "Laredo",
+    "system": "Texas A&M University System"
+   }
+  ],
+  "43": [
+   {
+    "name": "Coastal Bend College",
+    "city": "Beeville",
+    "system": ""
+   }
+  ],
+  "44": [
+   {
+    "name": "Texas Lutheran University",
+    "city": "Seguin",
+    "system": ""
+   }
+  ],
+  "45": [
+   {
+    "name": "Texas State University",
+    "city": "San Marcos",
+    "system": "Texas State University System"
+   }
+  ],
+  "46": [
+   {
+    "name": "Huston-Tillotson University",
+    "city": "Austin",
+    "system": ""
+   }
+  ],
+  "47": [
+   {
+    "name": "Concordia University Texas",
+    "city": "Austin",
+    "system": ""
+   }
+  ],
+  "48": [],
+  "49": [
+   {
+    "name": "The University of Texas at Austin Dell Medical School",
+    "city": "Austin",
+    "system": "The University of Texas System"
+   }
+  ],
+  "50": [
+   {
+    "name": "Austin Community College",
+    "city": "Austin",
+    "system": ""
+   }
+  ],
+  "51": [
+   {
+    "name": "St. Edward's University",
+    "city": "Austin",
+    "system": ""
+   }
+  ],
+  "52": [],
+  "53": [],
+  "54": [
+   {
+    "name": "Texas A&M University-Central Texas",
+    "city": "Killeen",
+    "system": "Texas A&M University System"
+   }
+  ],
+  "55": [
+   {
+    "name": "Temple College",
+    "city": "Temple",
+    "system": ""
+   },
+   {
+    "name": "University of Mary Hardin-Baylor",
+    "city": "Belton",
+    "system": ""
+   }
+  ],
+  "56": [
+   {
+    "name": "McLennan Community College",
+    "city": "Waco",
+    "system": ""
+   }
+  ],
+  "57": [],
+  "58": [],
+  "59": [
+   {
+    "name": "Tarleton State University",
+    "city": "Stephenville",
+    "system": "Texas A&M University System"
+   }
+  ],
+  "60": [
+   {
+    "name": "Weatherford College",
+    "city": "Weatherford",
+    "system": ""
+   }
+  ],
+  "61": [],
+  "62": [
+   {
+    "name": "Austin College",
+    "city": "Sherman",
+    "system": ""
+   },
+   {
+    "name": "Grayson College",
+    "city": "Denison",
+    "system": ""
+   }
+  ],
+  "63": [],
+  "64": [
+   {
+    "name": "Texas Woman's University",
+    "city": "Denton",
+    "system": ""
+   }
+  ],
+  "65": [],
+  "66": [],
+  "67": [
+   {
+    "name": "Collin County Community College District",
+    "city": "McKinney",
+    "system": ""
+   }
+  ],
+  "68": [
+   {
+    "name": "North Central Texas College",
+    "city": "Gainesville",
+    "system": ""
+   },
+   {
+    "name": "Ranger College",
+    "city": "Ranger",
+    "system": ""
+   }
+  ],
+  "69": [
+   {
+    "name": "Midwestern State University",
+    "city": "Wichita Falls",
+    "system": "Texas Tech University System"
+   },
+   {
+    "name": "Vernon College",
+    "city": "Vernon",
+    "system": ""
+   }
+  ],
+  "70": [],
+  "71": [
+   {
+    "name": "McMurry University",
+    "city": "Abilene",
+    "system": ""
+   }
+  ],
+  "72": [
+   {
+    "name": "Angelo State University",
+    "city": "San Angelo",
+    "system": "Texas Tech University System"
+   },
+   {
+    "name": "Howard College",
+    "city": "Big Spring",
+    "system": "Howard County Junior College District"
+   },
+   {
+    "name": "Howard County Junior College District\u2013SouthWest College for the Deaf",
+    "city": "Big Spring",
+    "system": "Howard County Junior College District"
+   }
+  ],
+  "73": [],
+  "74": [],
+  "75": [],
+  "76": [],
+  "77": [
+   {
+    "name": "Texas Tech University Health Sciences Center - El Paso",
+    "city": "El Paso",
+    "system": "Texas Tech University System"
+   },
+   {
+    "name": "The University of Texas at El Paso",
+    "city": "El Paso",
+    "system": "The University of Texas System"
+   }
+  ],
+  "78": [],
+  "79": [],
+  "80": [
+   {
+    "name": "Southwest Texas College",
+    "city": "Uvalde",
+    "system": ""
+   }
+  ],
+  "81": [
+   {
+    "name": "Odessa College",
+    "city": "Odessa",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Permian Basin",
+    "city": "Odessa",
+    "system": "The University of Texas System"
+   }
+  ],
+  "82": [
+   {
+    "name": "Midland College",
+    "city": "Midland",
+    "system": ""
+   }
+  ],
+  "83": [
+   {
+    "name": "Western Texas College",
+    "city": "Snyder",
+    "system": ""
+   }
+  ],
+  "84": [
+   {
+    "name": "Lubbock Christian University",
+    "city": "Lubbock",
+    "system": ""
+   },
+   {
+    "name": "Texas Tech University Health Sciences Center",
+    "city": "Lubbock",
+    "system": "Texas Tech University System"
+   }
+  ],
+  "85": [],
+  "86": [
+   {
+    "name": "West Texas A&M University",
+    "city": "Canyon",
+    "system": "Texas A&M University System"
+   }
+  ],
+  "87": [],
+  "88": [
+   {
+    "name": "South Plains College",
+    "city": "Levelland",
+    "system": ""
+   },
+   {
+    "name": "Wayland Baptist University",
+    "city": "Plainview",
+    "system": ""
+   }
+  ],
+  "89": [],
+  "90": [
+   {
+    "name": "Texas Wesleyan University",
+    "city": "Fort Worth",
+    "system": ""
+   }
+  ],
+  "91": [],
+  "92": [],
+  "93": [],
+  "94": [],
+  "95": [
+   {
+    "name": "Tarrant County College - Connect Campus",
+    "city": "Fort Worth",
+    "system": "Tarrant County College District"
+   },
+   {
+    "name": "Tarrant County College - South Campus",
+    "city": "Fort Worth",
+    "system": "Tarrant County College District"
+   }
+  ],
+  "96": [],
+  "97": [
+   {
+    "name": "Texas Christian University",
+    "city": "Fort Worth",
+    "system": ""
+   }
+  ],
+  "98": [],
+  "99": [
+   {
+    "name": "Tarrant County College - Northwest Campus",
+    "city": "Fort Worth",
+    "system": "Tarrant County College District"
+   }
+  ],
+  "100": [
+   {
+    "name": "The University of Texas Southwestern Medical Center",
+    "city": "Dallas",
+    "system": "The University of Texas System"
+   }
+  ],
+  "101": [
+   {
+    "name": "Tarrant County College - Southeast Campus",
+    "city": "Arlington",
+    "system": "Tarrant County College District"
+   }
+  ],
+  "102": [],
+  "103": [
+   {
+    "name": "Parker University",
+    "city": "Dallas",
+    "system": ""
+   },
+   {
+    "name": "University of Dallas",
+    "city": "Irving",
+    "system": ""
+   }
+  ],
+  "104": [
+   {
+    "name": "Dallas Baptist University",
+    "city": "Dallas",
+    "system": ""
+   }
+  ],
+  "105": [
+   {
+    "name": "Dallas College North Lake Campus",
+    "city": "Irving",
+    "system": "Dallas County Community College District"
+   }
+  ],
+  "106": [],
+  "107": [
+   {
+    "name": "Amberton University",
+    "city": "Garland",
+    "system": ""
+   },
+   {
+    "name": "Dallas College Eastfield Campus",
+    "city": "Mesquite",
+    "system": "Dallas County Community College District"
+   }
+  ],
+  "108": [
+   {
+    "name": "Southern Methodist University",
+    "city": "Dallas",
+    "system": ""
+   }
+  ],
+  "109": [
+   {
+    "name": "University of North Texas at Dallas",
+    "city": "Dallas",
+    "system": "University of North Texas System"
+   }
+  ],
+  "110": [
+   {
+    "name": "Paul Quinn College",
+    "city": "Dallas",
+    "system": ""
+   }
+  ],
+  "111": [],
+  "112": [
+   {
+    "name": "The University of Texas at Dallas",
+    "city": "Richardson",
+    "system": "The University of Texas System"
+   }
+  ],
+  "113": [],
+  "114": [
+   {
+    "name": "Criswell College",
+    "city": "Dallas",
+    "system": ""
+   },
+   {
+    "name": "Dallas College El Centro Campus",
+    "city": "Dallas",
+    "system": "Dallas County Community College District"
+   },
+   {
+    "name": "UNT Dallas College of Law",
+    "city": "Dallas",
+    "system": "University of North Texas System"
+   }
+  ],
+  "115": [
+   {
+    "name": "Dallas College Brookhaven Campus",
+    "city": "Dallas",
+    "system": "Dallas County Community College District"
+   }
+  ],
+  "116": [
+   {
+    "name": "The University of Texas Health Science Center at San Antonio",
+    "city": "San Antonio",
+    "system": "The University of Texas System"
+   }
+  ],
+  "117": [
+   {
+    "name": "Alamo Community College - Northwest Vista College",
+    "city": "San Antonio",
+    "system": "Alamo Community College District"
+   },
+   {
+    "name": "Alamo Community College - Palo Alto College",
+    "city": "San Antonio",
+    "system": "Alamo Community College District"
+   }
+  ],
+  "118": [],
+  "119": [
+   {
+    "name": "Alamo Community College - Northeast Lakeview College",
+    "city": "Universal City",
+    "system": "Alamo Community College District"
+   }
+  ],
+  "120": [
+   {
+    "name": "Alamo Community College - St. Philip's College",
+    "city": "San Antonio",
+    "system": "Alamo Community College District"
+   },
+   {
+    "name": "University of the Incarnate Word",
+    "city": "San Antonio",
+    "system": ""
+   }
+  ],
+  "121": [],
+  "122": [],
+  "123": [
+   {
+    "name": "Alamo Community College - San Antonio College",
+    "city": "San Antonio",
+    "system": "Alamo Community College District"
+   },
+   {
+    "name": "Trinity University",
+    "city": "San Antonio",
+    "system": ""
+   }
+  ],
+  "124": [],
+  "125": [
+   {
+    "name": "Our Lady of the Lake University of San Antonio",
+    "city": "San Antonio",
+    "system": ""
+   },
+   {
+    "name": "St. Mary's University",
+    "city": "San Antonio",
+    "system": ""
+   }
+  ],
+  "126": [],
+  "127": [],
+  "128": [
+   {
+    "name": "Texas Chiropractic College",
+    "city": "Pasadena",
+    "system": ""
+   }
+  ],
+  "129": [
+   {
+    "name": "University of Houston-Clear Lake",
+    "city": "Houston",
+    "system": "University of Houston System"
+   }
+  ],
+  "130": [],
+  "131": [],
+  "132": [
+   {
+    "name": "Lone Star College - Cy-Fair",
+    "city": "Houston",
+    "system": "Lone Star College System"
+   }
+  ],
+  "133": [],
+  "134": [
+   {
+    "name": "Baylor College of Medicine",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "Rice University",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Health Science Center at Houston",
+    "city": "Houston",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "The University of Texas M.D. Anderson Cancer Center",
+    "city": "Houston",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "University of St. Thomas",
+    "city": "Houston",
+    "system": ""
+   }
+  ],
+  "135": [],
+  "136": [],
+  "137": [],
+  "138": [],
+  "139": [],
+  "140": [],
+  "141": [
+   {
+    "name": "Lone Star College - Houston North",
+    "city": "Houston",
+    "system": "Lone Star College System"
+   }
+  ],
+  "142": [
+   {
+    "name": "San Jacinto College North Campus",
+    "city": "Houston",
+    "system": "San Jacinto College District"
+   }
+  ],
+  "143": [
+   {
+    "name": "Lee College",
+    "city": "Baytown",
+    "system": ""
+   }
+  ],
+  "144": [
+   {
+    "name": "San Jacinto College South Campus",
+    "city": "Houston",
+    "system": "San Jacinto College District"
+   }
+  ],
+  "145": [
+   {
+    "name": "Houston City College - Southwest College",
+    "city": "Houston",
+    "system": "Houston City College"
+   },
+   {
+    "name": "University of Houston-Downtown",
+    "city": "Houston",
+    "system": "University of Houston System"
+   }
+  ],
+  "146": [
+   {
+    "name": "Houston Christian University",
+    "city": "Houston",
+    "system": ""
+   }
+  ],
+  "147": [
+   {
+    "name": "Houston City College",
+    "city": "Houston",
+    "system": "Houston City College"
+   },
+   {
+    "name": "South Texas College of Law Houston",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "Texas Southern University",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "University of Houston",
+    "city": "Houston",
+    "system": "University of Houston System"
+   },
+   {
+    "name": "University of Houston College of Medicine",
+    "city": "Houston",
+    "system": "University of Houston System"
+   }
+  ],
+  "148": [],
+  "149": [
+   {
+    "name": "Houston City College - Northwest College",
+    "city": "Houston",
+    "system": "Houston City College"
+   }
+  ],
+  "150": []
+ },
+ "senate": {
+  "13": [
+   {
+    "name": "Baylor College of Medicine",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "Houston Christian University",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "Rice University",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "South Texas College of Law Houston",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "Texas Southern University",
+    "city": "Houston",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Health Science Center at Houston",
+    "city": "Houston",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "The University of Texas M.D. Anderson Cancer Center",
+    "city": "Houston",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "University of Houston",
+    "city": "Houston",
+    "system": "University of Houston System"
+   },
+   {
+    "name": "University of Houston College of Medicine",
+    "city": "Houston",
+    "system": "University of Houston System"
+   },
+   {
+    "name": "University of Houston-Downtown",
+    "city": "Houston",
+    "system": "University of Houston System"
+   }
+  ],
+  "18": [
+   {
+    "name": "Blinn College District",
+    "city": "Brenham",
+    "system": ""
+   },
+   {
+    "name": "Lone Star College - Cy-Fair",
+    "city": "Houston",
+    "system": "Lone Star College System"
+   },
+   {
+    "name": "Texas A&M University-Victoria",
+    "city": "Victoria",
+    "system": "Texas A&M University System"
+   },
+   {
+    "name": "Victoria College",
+    "city": "Victoria",
+    "system": ""
+   }
+  ],
+  "20": [
+   {
+    "name": "Del Mar College",
+    "city": "Corpus Christi",
+    "system": ""
+   },
+   {
+    "name": "South Texas College",
+    "city": "McAllen",
+    "system": ""
+   },
+   {
+    "name": "Texas A&M University-Corpus Christi",
+    "city": "Corpus Christi",
+    "system": "Texas A&M University System"
+   },
+   {
+    "name": "The University of Texas Rio Grande Valley",
+    "city": "Edinburg",
+    "system": "The University of Texas System"
+   }
+  ],
+  "1": [
+   {
+    "name": "Kilgore College",
+    "city": "Kilgore",
+    "system": ""
+   },
+   {
+    "name": "LeTourneau University",
+    "city": "Longview",
+    "system": ""
+   },
+   {
+    "name": "Northeast Texas Community College",
+    "city": "Mount Pleasant",
+    "system": ""
+   },
+   {
+    "name": "Panola College",
+    "city": "Carthage",
+    "system": ""
+   },
+   {
+    "name": "Paris Junior College",
+    "city": "Paris",
+    "system": ""
+   },
+   {
+    "name": "Texarkana College",
+    "city": "Texarkana",
+    "system": ""
+   },
+   {
+    "name": "Texas A&M University-Texarkana",
+    "city": "Texarkana",
+    "system": "Texas A&M University System"
+   },
+   {
+    "name": "Texas College",
+    "city": "Tyler",
+    "system": ""
+   },
+   {
+    "name": "Texas State Technical College-Marshall",
+    "city": "Marshall",
+    "system": "Texas State Technical College System"
+   },
+   {
+    "name": "The University of Texas at Tyler",
+    "city": "Tyler",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "Wiley University",
+    "city": "Marshall",
+    "system": ""
+   }
+  ],
+  "2": [
+   {
+    "name": "Amberton University",
+    "city": "Garland",
+    "system": ""
+   },
+   {
+    "name": "Navarro College",
+    "city": "Corsicana",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas at Dallas",
+    "city": "Richardson",
+    "system": "The University of Texas System"
+   }
+  ],
+  "3": [
+   {
+    "name": "Angelina College",
+    "city": "Lufkin",
+    "system": ""
+   },
+   {
+    "name": "Jacksonville College",
+    "city": "Jacksonville",
+    "system": ""
+   },
+   {
+    "name": "Lamar Institute of Technology",
+    "city": "Beaumont",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "Lamar State College-Orange",
+    "city": "Orange",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "Lamar University",
+    "city": "Beaumont",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "Stephen F. Austin State University",
+    "city": "Nacogdoches",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "Trinity Valley Community College",
+    "city": "Athens",
+    "system": ""
+   }
+  ],
+  "4": [
+   {
+    "name": "Lamar State College-Port Arthur",
+    "city": "Port Arthur",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "Lone Star College - Connect Campus",
+    "city": "The Woodlands",
+    "system": "Lone Star College System"
+   },
+   {
+    "name": "Lone Star College - Kingwood",
+    "city": "Kingwood",
+    "system": "Lone Star College System"
+   },
+   {
+    "name": "Lone Star College - Montgomery",
+    "city": "Conroe",
+    "system": "Lone Star College System"
+   },
+   {
+    "name": "Sam Houston State University College of Osteopathic Medicine",
+    "city": "Conroe",
+    "system": "Texas State University System"
+   }
+  ],
+  "5": [
+   {
+    "name": "Sam Houston State University",
+    "city": "Huntsville",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "SHSU Polytechnic College",
+    "city": "Huntsville",
+    "system": "Texas State University System"
+   },
+   {
+    "name": "Southwestern University",
+    "city": "Georgetown",
+    "system": ""
+   },
+   {
+    "name": "Texas A&M Health Science Center",
+    "city": "Bryan",
+    "system": "Texas A&M University System"
+   }
+  ],
+  "6": [
+   {
+    "name": "Houston City College - Southwest College",
+    "city": "Houston",
+    "system": "Houston City College"
+   },
+   {
+    "name": "Lee College",
+    "city": "Baytown",
+    "system": ""
+   },
+   {
+    "name": "Lone Star College - Houston North",
+    "city": "Houston",
+    "system": "Lone Star College System"
+   },
+   {
+    "name": "San Jacinto College North Campus",
+    "city": "Houston",
+    "system": "San Jacinto College District"
+   },
+   {
+    "name": "San Jacinto College South Campus",
+    "city": "Houston",
+    "system": "San Jacinto College District"
+   }
+  ],
+  "7": [
+   {
+    "name": "Houston City College - Northwest College",
+    "city": "Houston",
+    "system": "Houston City College"
+   }
+  ],
+  "8": [
+   {
+    "name": "Collin County Community College District",
+    "city": "McKinney",
+    "system": ""
+   }
+  ],
+  "9": [
+   {
+    "name": "Tarrant County College - Connect Campus",
+    "city": "Fort Worth",
+    "system": "Tarrant County College District"
+   },
+   {
+    "name": "Tarrant County College - Northwest Campus",
+    "city": "Fort Worth",
+    "system": "Tarrant County College District"
+   },
+   {
+    "name": "Texas Wesleyan University",
+    "city": "Fort Worth",
+    "system": ""
+   }
+  ],
+  "10": [
+   {
+    "name": "Tarrant County College - South Campus",
+    "city": "Fort Worth",
+    "system": "Tarrant County College District"
+   },
+   {
+    "name": "Texas Christian University",
+    "city": "Fort Worth",
+    "system": ""
+   }
+  ],
+  "11": [
+   {
+    "name": "Alvin Community College",
+    "city": "Alvin",
+    "system": ""
+   },
+   {
+    "name": "College of the Mainland Community College District",
+    "city": "Texas City",
+    "system": ""
+   },
+   {
+    "name": "Galveston College",
+    "city": "Galveston",
+    "system": ""
+   },
+   {
+    "name": "Texas Chiropractic College",
+    "city": "Pasadena",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Medical Branch at Galveston",
+    "city": "Galveston",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "University of Houston-Clear Lake",
+    "city": "Houston",
+    "system": "University of Houston System"
+   }
+  ],
+  "12": [
+   {
+    "name": "Dallas College Brookhaven Campus",
+    "city": "Dallas",
+    "system": "Dallas County Community College District"
+   },
+   {
+    "name": "Southern Methodist University",
+    "city": "Dallas",
+    "system": ""
+   }
+  ],
+  "14": [
+   {
+    "name": "Austin Community College",
+    "city": "Austin",
+    "system": ""
+   },
+   {
+    "name": "Concordia University Texas",
+    "city": "Austin",
+    "system": ""
+   },
+   {
+    "name": "Huston-Tillotson University",
+    "city": "Austin",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas at Austin Dell Medical School",
+    "city": "Austin",
+    "system": "The University of Texas System"
+   }
+  ],
+  "15": [
+   {
+    "name": "Houston City College",
+    "city": "Houston",
+    "system": "Houston City College"
+   },
+   {
+    "name": "University of St. Thomas",
+    "city": "Houston",
+    "system": ""
+   }
+  ],
+  "16": [
+   {
+    "name": "Dallas College Eastfield Campus",
+    "city": "Mesquite",
+    "system": "Dallas County Community College District"
+   },
+   {
+    "name": "Dallas College North Lake Campus",
+    "city": "Irving",
+    "system": "Dallas County Community College District"
+   },
+   {
+    "name": "Parker University",
+    "city": "Dallas",
+    "system": ""
+   },
+   {
+    "name": "University of Dallas",
+    "city": "Irving",
+    "system": ""
+   }
+  ],
+  "17": [],
+  "19": [
+   {
+    "name": "Alamo Community College - Northeast Lakeview College",
+    "city": "Universal City",
+    "system": "Alamo Community College District"
+   },
+   {
+    "name": "Alamo Community College - Northwest Vista College",
+    "city": "San Antonio",
+    "system": "Alamo Community College District"
+   },
+   {
+    "name": "Alamo Community College - Palo Alto College",
+    "city": "San Antonio",
+    "system": "Alamo Community College District"
+   },
+   {
+    "name": "Alamo Community College - St. Philip's College",
+    "city": "San Antonio",
+    "system": "Alamo Community College District"
+   },
+   {
+    "name": "Southwest Texas College",
+    "city": "Uvalde",
+    "system": ""
+   },
+   {
+    "name": "Texas Lutheran University",
+    "city": "Seguin",
+    "system": ""
+   }
+  ],
+  "21": [
+   {
+    "name": "St. Edward's University",
+    "city": "Austin",
+    "system": ""
+   },
+   {
+    "name": "Texas A&M International University",
+    "city": "Laredo",
+    "system": "Texas A&M University System"
+   },
+   {
+    "name": "Texas State University",
+    "city": "San Marcos",
+    "system": "Texas State University System"
+   }
+  ],
+  "22": [
+   {
+    "name": "Hill College",
+    "city": "Hillsboro",
+    "system": ""
+   },
+   {
+    "name": "McLennan Community College",
+    "city": "Waco",
+    "system": ""
+   },
+   {
+    "name": "Nelson University",
+    "city": "Waxahachie",
+    "system": ""
+   },
+   {
+    "name": "Ranger College",
+    "city": "Ranger",
+    "system": ""
+   },
+   {
+    "name": "Tarleton State University",
+    "city": "Stephenville",
+    "system": "Texas A&M University System"
+   },
+   {
+    "name": "Tarrant County College - Southeast Campus",
+    "city": "Arlington",
+    "system": "Tarrant County College District"
+   },
+   {
+    "name": "Texas State Technical College-North Texas",
+    "city": "Red Oak",
+    "system": "Texas State Technical College System"
+   }
+  ],
+  "23": [
+   {
+    "name": "Criswell College",
+    "city": "Dallas",
+    "system": ""
+   },
+   {
+    "name": "Dallas Baptist University",
+    "city": "Dallas",
+    "system": ""
+   },
+   {
+    "name": "Dallas College El Centro Campus",
+    "city": "Dallas",
+    "system": "Dallas County Community College District"
+   },
+   {
+    "name": "Paul Quinn College",
+    "city": "Dallas",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Southwestern Medical Center",
+    "city": "Dallas",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "University of North Texas at Dallas",
+    "city": "Dallas",
+    "system": "University of North Texas System"
+   },
+   {
+    "name": "UNT Dallas College of Law",
+    "city": "Dallas",
+    "system": "University of North Texas System"
+   }
+  ],
+  "24": [
+   {
+    "name": "Temple College",
+    "city": "Temple",
+    "system": ""
+   },
+   {
+    "name": "Texas A&M University-Central Texas",
+    "city": "Killeen",
+    "system": "Texas A&M University System"
+   },
+   {
+    "name": "University of Mary Hardin-Baylor",
+    "city": "Belton",
+    "system": ""
+   }
+  ],
+  "25": [],
+  "26": [
+   {
+    "name": "Alamo Community College - San Antonio College",
+    "city": "San Antonio",
+    "system": "Alamo Community College District"
+   },
+   {
+    "name": "Our Lady of the Lake University of San Antonio",
+    "city": "San Antonio",
+    "system": ""
+   },
+   {
+    "name": "St. Mary's University",
+    "city": "San Antonio",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Health Science Center at San Antonio",
+    "city": "San Antonio",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "Trinity University",
+    "city": "San Antonio",
+    "system": ""
+   },
+   {
+    "name": "University of the Incarnate Word",
+    "city": "San Antonio",
+    "system": ""
+   }
+  ],
+  "27": [
+   {
+    "name": "Coastal Bend College",
+    "city": "Beeville",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Rio Grande Valley - Medical School",
+    "city": "Harlingen",
+    "system": "The University of Texas System"
+   }
+  ],
+  "28": [
+   {
+    "name": "Angelo State University",
+    "city": "San Angelo",
+    "system": "Texas Tech University System"
+   },
+   {
+    "name": "Lubbock Christian University",
+    "city": "Lubbock",
+    "system": ""
+   },
+   {
+    "name": "McMurry University",
+    "city": "Abilene",
+    "system": ""
+   },
+   {
+    "name": "Midwestern State University",
+    "city": "Wichita Falls",
+    "system": "Texas Tech University System"
+   },
+   {
+    "name": "South Plains College",
+    "city": "Levelland",
+    "system": ""
+   },
+   {
+    "name": "Texas Tech University Health Sciences Center",
+    "city": "Lubbock",
+    "system": "Texas Tech University System"
+   },
+   {
+    "name": "Vernon College",
+    "city": "Vernon",
+    "system": ""
+   },
+   {
+    "name": "Wayland Baptist University",
+    "city": "Plainview",
+    "system": ""
+   }
+  ],
+  "29": [
+   {
+    "name": "Texas Tech University Health Sciences Center - El Paso",
+    "city": "El Paso",
+    "system": "Texas Tech University System"
+   },
+   {
+    "name": "The University of Texas at El Paso",
+    "city": "El Paso",
+    "system": "The University of Texas System"
+   }
+  ],
+  "30": [
+   {
+    "name": "Austin College",
+    "city": "Sherman",
+    "system": ""
+   },
+   {
+    "name": "Grayson College",
+    "city": "Denison",
+    "system": ""
+   },
+   {
+    "name": "North Central Texas College",
+    "city": "Gainesville",
+    "system": ""
+   },
+   {
+    "name": "Texas Woman's University",
+    "city": "Denton",
+    "system": ""
+   },
+   {
+    "name": "Weatherford College",
+    "city": "Weatherford",
+    "system": ""
+   }
+  ],
+  "31": [
+   {
+    "name": "Howard College",
+    "city": "Big Spring",
+    "system": "Howard County Junior College District"
+   },
+   {
+    "name": "Howard County Junior College District\u2013SouthWest College for the Deaf",
+    "city": "Big Spring",
+    "system": "Howard County Junior College District"
+   },
+   {
+    "name": "Midland College",
+    "city": "Midland",
+    "system": ""
+   },
+   {
+    "name": "Odessa College",
+    "city": "Odessa",
+    "system": ""
+   },
+   {
+    "name": "The University of Texas Permian Basin",
+    "city": "Odessa",
+    "system": "The University of Texas System"
+   },
+   {
+    "name": "West Texas A&M University",
+    "city": "Canyon",
+    "system": "Texas A&M University System"
+   },
+   {
+    "name": "Western Texas College",
+    "city": "Snyder",
+    "system": ""
+   }
+  ]
+ }
+}
