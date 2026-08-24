@@ -65,6 +65,20 @@ async function loadHospitalData() {
   return hospitalData;
 }
 
+let higherEdData = null; // loaded once from data/higher_ed.json
+
+async function loadHigherEdData() {
+  if (higherEdData) return higherEdData;
+  try {
+    const res = await fetch("data/higher_ed.json");
+    higherEdData = await res.json();
+  } catch (err) {
+    console.error("Couldn't load higher ed data:", err);
+    higherEdData = { house: {}, senate: {} };
+  }
+  return higherEdData;
+}
+
 // ---------------------------------------------------------------
 // Init
 // ---------------------------------------------------------------
@@ -150,14 +164,16 @@ async function openDistrict(chamber, feature, lyr) {
 
   showSidebarSkeleton(chamberLabel, props.district, repName);
 
-  const [census, schoolData, hospData] = await Promise.all([
+  const [census, schoolData, hospData, higherEd] = await Promise.all([
     fetchCensusData(chamber, props.district),
     loadSchoolDistrictData(),
     loadHospitalData(),
+    loadHigherEdData(),
   ]);
   const isdList = (schoolData[chamber] && schoolData[chamber][String(props.district)]) || [];
   const hospitalList = (hospData[chamber] && hospData[chamber][String(props.district)]) || [];
-  renderReport(chamberLabel, props.district, repName, census, isdList, hospitalList);
+  const higherEdList = (higherEd[chamber] && higherEd[chamber][String(props.district)]) || [];
+  renderReport(chamberLabel, props.district, repName, census, isdList, hospitalList, higherEdList);
 }
 
 function showSidebarSkeleton(chamberLabel, district, repName) {
@@ -170,7 +186,7 @@ function showSidebarSkeleton(chamberLabel, district, repName) {
   `;
 }
 
-function renderReport(chamberLabel, district, repName, census, isdList, hospitalList) {
+function renderReport(chamberLabel, district, repName, census, isdList, hospitalList, higherEdList) {
   const rows = census
     ? Object.entries(CENSUS_VARS)
         .map(([code, label]) => {
@@ -221,11 +237,17 @@ function renderReport(chamberLabel, district, repName, census, isdList, hospital
     </div>
 
     <div class="report-section">
-      <h3>Additional layers</h3>
-      <p class="muted">
-        Higher-ed institutions for this district will appear here once that
-        layer is added.
-      </p>
+      <h3>Higher education (${higherEdList.length})</h3>
+      ${
+        higherEdList.length
+          ? `<ul class="hospital-list">${higherEdList
+              .map(
+                (h) =>
+                  `<li><strong>${h.name}</strong> — ${h.city}${h.system ? ` · ${h.system}` : ""}</li>`
+              )
+              .join("")}</ul>`
+          : `<p class="muted">No postsecondary institution found in this district.</p>`
+      }
     </div>
 
     <div class="report-section">
