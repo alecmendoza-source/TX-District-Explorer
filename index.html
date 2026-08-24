@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Texas District Explorer</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div id="app">
+
+  <header id="topbar">
+    <h1>Texas District Explorer</h1>
+    <div id="chamber-toggle">
+      <button id="btn-house" class="chamber-btn active">Texas House</button>
+      <button id="btn-senate" class="chamber-btn">Texas Senate</button>
+    </div>
+    <div id="search-wrap">
+      <input id="search-input" type="text" placeholder="Search by district # or legislator name..." autocomplete="off" />
+      <div id="search-results"></div>
+    </div>
+  </header>
+
+  <main id="main">
+    <div id="map"></div>
+
+    <aside id="sidebar">
+      <div id="sidebar-empty">
+        <p>Click a district on the map, or search above, to see its report.</p>
+      </div>
+      <div id="sidebar-content" class="hidden">
+        <button id="close-sidebar">&times;</button>
+        <div id="report-body"></div>
+      </div>
+    </aside>
+  </main>
+
+  <div id="loading-banner" class="hidden">Loading district boundaries…</div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
