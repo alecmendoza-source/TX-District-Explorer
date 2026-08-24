@@ -94,6 +94,7 @@ html, body { margin: 0; height: 100%; font-family: -apple-system, Segoe UI, Robo
 .stat-table td { padding: 5px 0; border-bottom: 1px solid #eee; }
 .stat-table td:last-child { text-align: right; font-weight: 600; }
 .muted { color: #888; font-size: 13px; }
+.isd-list { font-size: 13px; line-height: 1.6; color: #333; }
 
 .export-btn {
   width: 100%;
