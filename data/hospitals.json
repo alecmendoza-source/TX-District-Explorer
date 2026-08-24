@@ -1,0 +1,5706 @@
+{
+ "house": {
+  "1": [
+   {
+    "name": "Paris Regional Medical Center",
+    "city": "Paris",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Wadley Regional Medical Center",
+    "city": "Texarkana",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Christus St Michael Health System",
+    "city": "Texarkana",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "2": [
+   {
+    "name": "Christus Mother Frances Hospital Sulphur Springs",
+    "city": "Sulphur Springs",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Hunt Regional Medical Center",
+    "city": "Greenville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Glen Oaks Hospital",
+    "city": "Greenville",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "3": [
+   {
+    "name": "Hca Houston Healthcare Kingwood",
+    "city": "Kingwood",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Woodland Springs",
+    "city": "Conroe",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Hermann Surgical Hospital Kingwood",
+    "city": "Kingwood",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "4": [
+   {
+    "name": "Ut Health East Texas Athens Hospital",
+    "city": "Athens",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Terrell State Hospital",
+    "city": "Terrell",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "5": [
+   {
+    "name": "Ut Health East Texas Pittsburg Hospital",
+    "city": "Pittsburg",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Ut Health East Texas Quitman Hospital",
+    "city": "Quitman",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Christus Mother Frances Hospital- Winnsboro",
+    "city": "Winnsboro",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "6": [
+   {
+    "name": "Ut Health East Texas Tyler Regional Hospital",
+    "city": "Tyler",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Christus Mother Frances Hospital",
+    "city": "Tyler",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott & White Texas Spine & Joint Hospital",
+    "city": "Tyler",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "7": [
+   {
+    "name": "Christus Good Shepherd Medical Center",
+    "city": "Longview",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Longview Regional Medical Center",
+    "city": "Longview",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Longview",
+    "city": "Longview",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "8": [
+   {
+    "name": "Ut Health East Texas Jacksonville Hospital",
+    "city": "Jacksonville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Palestine Regional Medical Center",
+    "city": "Palestine",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Christus Mother Frances Hospital- Jacksonville",
+    "city": "Jacksonville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Rusk State Hosp",
+    "city": "Rusk",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "9": [
+   {
+    "name": "Chi St Lukes Health Memorial Lufkin",
+    "city": "Lufkin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Tyler County Hospital",
+    "city": "Woodville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Crockett Medical Center",
+    "city": "Crockett",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Lufkin Llc",
+    "city": "Lufkin",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Mid Coast Medical Center-Trinity",
+    "city": "Trinity",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Chi St Lukes Health Memorial San Augustine",
+    "city": "San Augustine",
+    "type": "Rural Emergency Hospital",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "10": [
+   {
+    "name": "Ennis Regional Medical Center",
+    "city": "Ennis",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "11": [
+   {
+    "name": "Ut Health East Texas Carthage Hospital",
+    "city": "Carthage",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Ut Health East Texas Henderson Hospital",
+    "city": "Henderson",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Nacogdoches Memorial Hospital",
+    "city": "Nacogdoches",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Nacogdoches Medical Center",
+    "city": "Nacogdoches",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Sabine County Hospital",
+    "city": "Hemphill",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "12": [
+   {
+    "name": "Madison St Joseph Health Center",
+    "city": "Madisonville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Grimes St Joseph Health Center",
+    "city": "Navasota",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Hospital Brenham",
+    "city": "Brenham",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "13": [
+   {
+    "name": "Parkview Regional Hospital",
+    "city": "Mexia",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Freestone Medical Center",
+    "city": "Fairfield",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Limestone Medical Center",
+    "city": "Groesbeck",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Falls Community Hospital And Clinic",
+    "city": "Marlin",
+    "type": "Rural Emergency Hospital",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "14": [
+   {
+    "name": "Chi St Joseph Health Regional Hospital",
+    "city": "Bryan",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Physicians Centre,The",
+    "city": "Bryan",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "15": [
+   {
+    "name": "St Luke'S The Woodlands Hospital",
+    "city": "The Woodlands",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Chi St Lukes Lakeside Hospital",
+    "city": "The Woodlands",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "The Woodlands Specialty Hospital",
+    "city": "Spring",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "16": [
+   {
+    "name": "Hca Houston Healthcare Conroe",
+    "city": "Conroe",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Aspire Hospital",
+    "city": "Conroe",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "17": [
+   {
+    "name": "Burleson St Joseph Health Center",
+    "city": "Caldwell",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ascension Seton Edgar B Davis",
+    "city": "Luling",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ascension Seton Smithville",
+    "city": "Smithville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "18": [
+   {
+    "name": "Liberty Dayton Regional Medical Center",
+    "city": "Liberty",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Altus Lumberton Hospital",
+    "city": "Lumberton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "19": [
+   {
+    "name": "Hill Country Memorial Hospital",
+    "city": "Fredericksburg",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center - Marble Falls",
+    "city": "Marble Falls",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "20": [
+   {
+    "name": "Georgetown Behavioral Health Institute",
+    "city": "Georgetown",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "21": [
+   {
+    "name": "Christus Jasper Memorial Hospital",
+    "city": "Jasper",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "22": [
+   {
+    "name": "Christus Southeast Texas- St Elizabeth",
+    "city": "Beaumont",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baptist Beaumont Hospital",
+    "city": "Beaumont",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "23": [
+   {
+    "name": "University Of Texas Medical Branch Galveston",
+    "city": "Galveston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Bayside Community Hospital",
+    "city": "Anahuac",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Riceland Medical Center",
+    "city": "Winnie",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Shriners Hospitals For Children",
+    "city": "Galveston",
+    "type": "Childrens",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "24": [],
+  "25": [
+   {
+    "name": "Chi St Luke'S Health Brazosport",
+    "city": "Lake Jackson",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Sweeny Community Hospital",
+    "city": "Sweeny",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "26": [
+   {
+    "name": "Oakbend Medical Center",
+    "city": "Richmond",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "27": [],
+  "28": [
+   {
+    "name": "St Luke'S Sugar Land Hospital",
+    "city": "Sugar Land",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "29": [],
+  "30": [
+   {
+    "name": "Citizens Medical Center",
+    "city": "Victoria",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "De Tar Hospital Navarro",
+    "city": "Victoria",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Matagorda Regional Medical Center",
+    "city": "Bay City",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Cuero Regional Hospital",
+    "city": "Cuero",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Palacios Community Medical Center",
+    "city": "Palacios",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Yoakum Community Hospital",
+    "city": "Yoakum",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Jackson Healthcare Center",
+    "city": "Edna",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Lavaca Medical Center",
+    "city": "Hallettsville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "31": [
+   {
+    "name": "Connally Memorial Medical Center",
+    "city": "Floresville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Starr County Memorial Hospital",
+    "city": "Rio Grande City",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Otto Kaiser Memorial Hospital",
+    "city": "Kenedy",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "32": [],
+  "33": [
+   {
+    "name": "Methodist Richardson Medical Center",
+    "city": "Richardson",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott And White Medical Center Lake Pointe",
+    "city": "Rowlett",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Rockwall",
+    "city": "Rockwall",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "34": [
+   {
+    "name": "Corpus Christi Medical Center,The",
+    "city": "Corpus Christi",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Driscoll Childrens Hospital",
+    "city": "Corpus Christi",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "35": [],
+  "36": [
+   {
+    "name": "Mission Regional Medical Center",
+    "city": "Mission",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "37": [
+   {
+    "name": "Vhs Harlingen Hospital Company Llc",
+    "city": "Harlingen",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Rio Grande State Center",
+    "city": "Harlingen",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "38": [
+   {
+    "name": "Valley Baptist Medical Center- Brownsville",
+    "city": "Brownsville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Valley Regional Medical Center",
+    "city": "Brownsville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   }
+  ],
+  "39": [
+   {
+    "name": "Knapp Medical Center",
+    "city": "Weslaco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "40": [
+   {
+    "name": "South Texas Health System",
+    "city": "Edinburg",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Cornerstone Regional Hospital",
+    "city": "Edinburg",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Doctors Hosptal At Renaissance",
+    "city": "Edinburg",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "41": [
+   {
+    "name": "Rio Grande Regional Hospital",
+    "city": "Mcallen",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "42": [
+   {
+    "name": "Laredo Medical Center",
+    "city": "Laredo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Doctors Hospital Of Laredo",
+    "city": "Laredo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "43": [
+   {
+    "name": "Christus Spohn Hospital Beeville",
+    "city": "Beeville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Christus Spohn Hospital Kleberg",
+    "city": "Kingsville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Refugio County Memorial Hospital",
+    "city": "Refugio",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Medical Center",
+    "city": "Port Lavaca",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "44": [
+   {
+    "name": "Guadalupe Regional Medical Center",
+    "city": "Seguin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Memorial Hospital",
+    "city": "Gonzales",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "45": [
+   {
+    "name": "Christus Santa Rosa Hospital-San Marcos",
+    "city": "San Marcos",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ascension  Seton Hays",
+    "city": "Kyle",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "46": [
+   {
+    "name": "Dell Children'S Medical Center",
+    "city": "Austin",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center Pflugerville",
+    "city": "Pflugerville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "47": [
+   {
+    "name": "Ascension Seton  Southwest",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "48": [
+   {
+    "name": "Northwest Hills Surgical Hospital",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "The Hospital At Westlake Medical Center",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center- Austin",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "49": [
+   {
+    "name": "Ascension Seton Medical Center Austin",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Dell Seton  Med Center At The University Of Tx",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "4"
+   },
+   {
+    "name": "St David'S Medical Center",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "St David'S South Austin Medical Center",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Ascension Seton Northwest",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Austin State Hospital",
+    "city": "Austin",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "50": [
+   {
+    "name": "North Austin Medical Center",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Cross Creek Hospital",
+    "city": "Austin",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "51": [],
+  "52": [
+   {
+    "name": "Baylor Scott & White Medical Center -Taylor",
+    "city": "Taylor",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center - Round Rock",
+    "city": "Round Rock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ascension Seton Cedar Park",
+    "city": "Cedar Park",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "53": [
+   {
+    "name": "Peterson Regional Medical Center",
+    "city": "Kerrville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Schleicher County Medical Center",
+    "city": "Eldorado",
+    "type": "Critical Access Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Kimble Hospital",
+    "city": "Junction",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Lillian M Hudspeth Memorial Hospital",
+    "city": "Sonora",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Medina Regional Hospital",
+    "city": "Hondo",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Crane County Hospital District",
+    "city": "Crane",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Mid Coast Medical Center - Central",
+    "city": "Llano",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "54": [
+   {
+    "name": "Adventhealth Central Texas",
+    "city": "Killeen",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "55": [
+   {
+    "name": "Baylor Scott & White Medical Center - Temple",
+    "city": "Temple",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Canyon Creek Behavioral Health",
+    "city": "Temple",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "56": [
+   {
+    "name": "Ascension Providence",
+    "city": "Waco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Waco",
+    "city": "Waco",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "57": [
+   {
+    "name": "The Heart Hospital Baylor Denton",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Baylor Scott White The Heart Hospital Corinth",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Mayhill Hospital",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Emergency Hospital",
+    "city": "Aubrey",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott And White The Heart Hospital Corinth",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "58": [
+   {
+    "name": "Texas Health Harris Methodist Hospital Cleburne",
+    "city": "Cleburne",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Glen Rose Medical Center",
+    "city": "Glen Rose",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "59": [
+   {
+    "name": "Texas Health Harris Methodist Hospital Stephenvill",
+    "city": "Stephenville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Lake Granbury Medical Center",
+    "city": "Granbury",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Coryell Memorial Hospital",
+    "city": "Gatesville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hamilton General Hospital",
+    "city": "Hamilton",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "60": [
+   {
+    "name": "Medical City Weatherford",
+    "city": "Weatherford",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Palo Pinto General Hospital",
+    "city": "Mineral Wells",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Stephens Memorial Hospital",
+    "city": "Breckenridge",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "61": [
+   {
+    "name": "Methodist Mckinney Hospital",
+    "city": "Mckinney",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "62": [
+   {
+    "name": "Wilson N Jones Regional Medical Center",
+    "city": "Sherman",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Tmc- Bonham Hospital",
+    "city": "Bonham",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Carrus Behavioral Hospital",
+    "city": "Sherman",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott And White Surgical Hospital At Sherma",
+    "city": "Sherman",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "63": [
+   {
+    "name": "Medical City Lewisville",
+    "city": "Lewisville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Flower Mound",
+    "city": "Flower Mound",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "64": [
+   {
+    "name": "Medical City Denton",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Denton",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "University Behavioral Health Of Denton",
+    "city": "Denton",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "65": [
+   {
+    "name": "Carrollton Regional Medical Center",
+    "city": "Carrollton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Carrollton Springs",
+    "city": "Carrollton",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "66": [
+   {
+    "name": "Texas Health Presbyterian Hospital Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center - Frisco",
+    "city": "Frisco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Baylor Scott &  White Medical Center - Centennial",
+    "city": "Frisco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Center For Diagnostics & Surgery Plan",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Childrens Medical Center Plano",
+    "city": "Plano",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Medical City Mental Health And Wellness Center",
+    "city": "Frisco",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White The Heart Hospital Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott And White  Medical Center  Mckinney",
+    "city": "Mc Kinney",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Hospital Frisco",
+    "city": "Frisco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Legent Surgical Hospital Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "67": [
+   {
+    "name": "Medical Center Of Mckinney",
+    "city": "Mckinney",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Allen",
+    "city": "Allen",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "68": [
+   {
+    "name": "Hendrick Medical Center Brownwood",
+    "city": "Brownwood",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Nocona General Hospital",
+    "city": "Nocona",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Adventhealth Rollins Brook",
+    "city": "Lampasas",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Muenster Memorial Hospital",
+    "city": "Muenster",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Throckmorton County Memorial Hospital",
+    "city": "Throckmorton",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Comanche County Medical Center",
+    "city": "Comanche",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Eastland Memorial Hospital",
+    "city": "Eastland",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "69": [
+   {
+    "name": "United Regional Health Care System",
+    "city": "Wichita Falls",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Wilbarger General Hospital",
+    "city": "Vernon",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Fisher County Hospital District",
+    "city": "Rotan",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Stonewall Memorial Hospital District",
+    "city": "Aspermont",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Haskell Memorial Hospital",
+    "city": "Haskell",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Electra Memorial Hospital",
+    "city": "Electra",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hardeman County Memorial Hospital",
+    "city": "Quanah",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Clay County Memorial Hospital",
+    "city": "Henrietta",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Knox County Hospital",
+    "city": "Knox City",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Seymour Hospital",
+    "city": "Seymour",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "North Texas State Hospital",
+    "city": "Wichita Falls",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Red River Hospital",
+    "city": "Wichita Falls",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "70": [
+   {
+    "name": "Medical City Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "71": [
+   {
+    "name": "Rolling Plains Memorial Hospital",
+    "city": "Sweetwater",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hendrick Medical Center",
+    "city": "Abilene",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Abilene",
+    "city": "Abilene",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Anson General Hospital",
+    "city": "Anson",
+    "type": "Rural Emergency Hospital",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "72": [
+   {
+    "name": "Shannon Medical Center",
+    "city": "San Angelo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Scenic Mountain Medical Center",
+    "city": "Big Spring",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Reagan Memorial Hospital",
+    "city": "Big Lake",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ballinger Memorial Hospital",
+    "city": "Ballinger",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "North Runnels Hospital",
+    "city": "Winters",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Coleman County Medical Center Company",
+    "city": "Coleman",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Big Spring State Hospital",
+    "city": "Big Spring",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "73": [
+   {
+    "name": "Resolute Health Hospital",
+    "city": "New Braunfels",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "74": [
+   {
+    "name": "Fort Duncan Medical Center",
+    "city": "Eagle Pass",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Val Verde Regional Medical Center",
+    "city": "Del Rio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Reeves Regional Health",
+    "city": "Pecos",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Big Bend Regional Medical Center",
+    "city": "Alpine",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "The Hospitals Of Providence - East Campus",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   }
+  ],
+  "75": [
+   {
+    "name": "The Hospitals Of Providence Horizon City Campus",
+    "city": "Horizon City",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "76": [
+   {
+    "name": "Memorial Hermann Sugar Land Hospital",
+    "city": "Sugar Land",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Atrium Medical Center",
+    "city": "Stafford",
+    "type": "Long-term",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Voyages Behavioral Health Of Sugar Land",
+    "city": "Sugar Land",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "77": [
+   {
+    "name": "The Hospitals Of Providence - Memorial Campus",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "University Medical Center Of El Paso",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Las Palmas Medical Center A Campus Of Lpds Healthc",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Sierra Medical Center",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "El Paso Children'S Hospital",
+    "city": "El Paso",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "El Paso Psychiatric Center",
+    "city": "El Paso",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "El Paso Behavioral Health System",
+    "city": "El Paso",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "78": [
+   {
+    "name": "Rio Vista Behavioral Health",
+    "city": "El Paso",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "79": [],
+  "80": [
+   {
+    "name": "Methodist Hospital Atascosa",
+    "city": "Jourdanton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Uvalde Memorial Hospital",
+    "city": "Uvalde",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Dimmit Regional Hospital",
+    "city": "Carrizo Springs",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center- College Stati",
+    "city": "College Station",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "81": [
+   {
+    "name": "Medical Center Hospital",
+    "city": "Odessa",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Odessa Regional Medical Center",
+    "city": "Odessa",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Winkler County Memorial Hospital",
+    "city": "Kermit",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ward Memorial Hospital",
+    "city": "Monahans",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "82": [],
+  "83": [
+   {
+    "name": "Brownfield Regional Medical Center",
+    "city": "Brownfield",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "W J Mangold Memorial Hospital",
+    "city": "Lockney",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Lynn County Hospital District",
+    "city": "Tahoka",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cogdell Memorial Hospital",
+    "city": "Snyder",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Crosbyton Clinic Hospital",
+    "city": "Crosbyton",
+    "type": "Rural Emergency Hospital",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "84": [
+   {
+    "name": "Covenant Medical Center",
+    "city": "Lubbock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Grace Surgical Hospital",
+    "city": "Lubbock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "University Medical Center",
+    "city": "Lubbock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Lubbock Heart Hospital Lp",
+    "city": "Lubbock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Covenant Childrens Hospital",
+    "city": "Lubbock",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Starcare Specialty Health /Sunrise Canyon Hospital",
+    "city": "Lubbock",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Lubbock",
+    "city": "Lubbock",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "85": [
+   {
+    "name": "Bellville Medical Center",
+    "city": "Bellville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Columbus Community Hospital",
+    "city": "Columbus",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "El Campo Memorial Hospital",
+    "city": "El Campo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Rice Medical Center",
+    "city": "Eagle Lake",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "86": [
+   {
+    "name": "Hereford Regional Medical Center",
+    "city": "Hereford",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Parmer County Community Hospital",
+    "city": "Friona",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Coon Memorial Hospital",
+    "city": "Dalhart",
+    "type": "Critical Access Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "87": [
+   {
+    "name": "Northwest Texas Hospital",
+    "city": "Amarillo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Bsa Hospital",
+    "city": "Amarillo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Va Amarillo Healthcare System",
+    "city": "Amarillo",
+    "type": "Acute Care - Veterans Administration",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Quail Creek Surgical Hospital",
+    "city": "Amarillo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hansford County Hospital",
+    "city": "Spearman",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ochiltree General Hospital",
+    "city": "Perryton",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Golden Plains Community Hospital",
+    "city": "Borger",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Hospital",
+    "city": "Dumas",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Amarillo",
+    "city": "Amarillo",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "88": [
+   {
+    "name": "Permian Regional Medical Center Andrews County Ho",
+    "city": "Andrews",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Covenant Hospital Plainview",
+    "city": "Plainview",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Lamb Healthcare Center",
+    "city": "Littlefield",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Covenant Hospital Levelland",
+    "city": "Levelland",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Yoakum County Hospital",
+    "city": "Denver City",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Parkview Hospital",
+    "city": "Wheeler",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Shamrock General Hospital",
+    "city": "Shamrock",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Swisher Memorial Hospital",
+    "city": "Tulia",
+    "type": "Critical Access Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Plains Memorial Hospital",
+    "city": "Dimmitt",
+    "type": "Critical Access Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Collingsworth General Hospital",
+    "city": "Wellington",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Hospital",
+    "city": "Seminole",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cochran Memorial Hospital",
+    "city": "Morton",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Allegiance Behavioral Health Center Of Plainview",
+    "city": "Plainview",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hemphill County Hospital",
+    "city": "Canadian",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "89": [],
+  "90": [
+   {
+    "name": "Jps Health Network",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Cook Childrens Medical Center",
+    "city": "Fort Worth",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "91": [
+   {
+    "name": "Medical City North Hills",
+    "city": "North Richland Hills",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   }
+  ],
+  "92": [],
+  "93": [
+   {
+    "name": "Texas Health Harris Methodist Hospital Alliance",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Medical City Alliance",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "94": [
+   {
+    "name": "Texas Health Arlington Memorial Hospital",
+    "city": "Arlington",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hurst-Euless-Bedford",
+    "city": "Bedford",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Millwood Hospital",
+    "city": "Arlington",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Health Heart & Vascular Hospital Arlington",
+    "city": "Arlington",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "4"
+   },
+   {
+    "name": "Saint Camillus Medical Center",
+    "city": "Hurst",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "95": [
+   {
+    "name": "Texas Health Harris Methodist Fort Worth",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "96": [
+   {
+    "name": "Methodist Mansfield Medical Center",
+    "city": "Mansfield",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott And White Emergency Hospital",
+    "city": "Burleson",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "97": [
+   {
+    "name": "Texas Health Harris Methodist Hospital Southwest F",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Mesa Springs",
+    "city": "Fort Worth",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Wellbridge Healthcare Fort Worth",
+    "city": "Fort Worth",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "98": [
+   {
+    "name": "Texas Health Harris Methodist Hospital Southlake",
+    "city": "Southlake",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "99": [
+   {
+    "name": "Baylor Scott And White All Saints Medical Center",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hospital Azle",
+    "city": "Azle",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Medical City Fort Worth",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Baylor Scott And White Surgical Hospital Fortworth",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "100": [
+   {
+    "name": "Childrens Medical Ctr Of Dallas",
+    "city": "Dallas",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "101": [
+   {
+    "name": "Usmd Hospital At Arlington L P",
+    "city": "Arlington",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott And White Orthopedic And Spine Hospi",
+    "city": "Arlington",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "102": [
+   {
+    "name": "Medical City Dallas Hospital",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Nexus Childrens Hospital Dallas",
+    "city": "Dallas",
+    "type": "Childrens",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Medical City Green Oaks Hospital",
+    "city": "Dallas",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Perimeter Behavioral Hospital Of Dallas",
+    "city": "Garland",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "103": [
+   {
+    "name": "Parkland Health & Hospital System",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Ut Of Texas  Southwestern University Hospital - William P. Clements Jr.",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Methodist Dallas Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Dallas Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "104": [],
+  "105": [
+   {
+    "name": "Baylor Scott & White Medical Center At Irving",
+    "city": "Irving",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "106": [],
+  "107": [
+   {
+    "name": "Dallas Regional Medical Center",
+    "city": "Mesquite",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "108": [
+   {
+    "name": "Texas Health Presbyterian Hospital Dallas",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Institute For Surgery At Presbyterian Hospit",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Scottish Rite Hospital For Children",
+    "city": "Dallas",
+    "type": "Childrens",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "North Central Surgical Center Llp",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "109": [],
+  "110": [
+   {
+    "name": "Dallas Va Medical Center (Va North Texas Healthcare System)",
+    "city": "Dallas",
+    "type": "Acute Care - Veterans Administration",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "111": [
+   {
+    "name": "Methodist Charlton Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Hickory Trail Hospital",
+    "city": "Desoto",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Dallas Behavioral Healthcare Hospital Llc",
+    "city": "De Soto",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "112": [
+   {
+    "name": "Baylor Scott And White Medical Center Sunnyvale",
+    "city": "Sunnyvale",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   }
+  ],
+  "113": [],
+  "114": [
+   {
+    "name": "Baylor University Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott And White Medical Center Uptown",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "White Rock Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Baylor Scott & White Heart & Vascular Hospital - Dallas",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "115": [
+   {
+    "name": "Medical City Las Colinas",
+    "city": "Irving",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Methodist Hospital For Surgery",
+    "city": "Addison",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "116": [
+   {
+    "name": "University Health System",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Methodist Hospital",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "San Antonio Va Medical Center (Va South Texas Healthcare System)",
+    "city": "San Antonio",
+    "type": "Acute Care - Veterans Administration",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "San Antonio Behavioral Healthcare Hospital",
+    "city": "San Antonio",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cedar Hills Behavioral",
+    "city": "San Antonio",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Foundation Surgical Hospital Of San Antonio",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "117": [],
+  "118": [
+   {
+    "name": "Legent Orthopedic + Spine",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "119": [
+   {
+    "name": "San Antonio State Hosp  State School",
+    "city": "San Antonio",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Center For Infectious Disease",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "120": [
+   {
+    "name": "Brooke Army Medical Center (Ft Sam Houston)",
+    "city": "Fort Sam Houston",
+    "type": "Acute Care - Department of Defense",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "121": [
+   {
+    "name": "South Texas Spine And Surgical Hospital",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Laurel Ridge Treatment Center",
+    "city": "San Antonio",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Methodist Hospital  Stone Oak",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baptist Neighborhood Hospital Thousand Oaks",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "122": [],
+  "123": [
+   {
+    "name": "Baptist Medical Center",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Children'S Hospital Of San Antonio",
+    "city": "San Antonio",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "124": [],
+  "125": [
+   {
+    "name": "Bandera Family Hospital",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "126": [
+   {
+    "name": "St Luke'S Hospital At The Vintage",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "127": [
+   {
+    "name": "Kingwood Pines Hospital",
+    "city": "Kingwood",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cleveland Emergency Hospital",
+    "city": "Humble",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Townsen Memorial Hospital",
+    "city": "Humble",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "128": [
+   {
+    "name": "Houston Methodist Baytown Hospital",
+    "city": "Baytown",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Baytown Medical Center Lp",
+    "city": "Baytown",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "129": [
+   {
+    "name": "Hca Houston Healthcare Southeast",
+    "city": "Pasadena",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Houston Methodist Clear Lake Hospital",
+    "city": "Nassau Bay",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Surgery Specialty Hospitals Of America Se Houston",
+    "city": "Pasadena",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Pasadena",
+    "city": "Pasadena",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Medical Behavioral Hospital Of Clear Lake, Llc",
+    "city": "Clear Lake City",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Hermann Houston Physicians Hospital",
+    "city": "Webster",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "St Luke'S Patients Medical Center",
+    "city": "Pasadena",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "130": [
+   {
+    "name": "Hca Houston Healthcare Tomball",
+    "city": "Tomball",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Lone Star Behavioral Health Cypress",
+    "city": "Cypress",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "131": [],
+  "132": [
+   {
+    "name": "Oceans Behavioral Hospital Of Katy",
+    "city": "Katy",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "133": [
+   {
+    "name": "Memorial Hermann Memorial City Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "134": [
+   {
+    "name": "Memorial Hermann - Texas Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor St Lukes Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Harris Health",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Houston Methodist Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Hca Houston Healthcare Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Orthopedic Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Childrens Hospital",
+    "city": "Houston",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Legent North Houston Surgical Hospital",
+    "city": "Bellaire",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "135": [],
+  "136": [
+   {
+    "name": "Round Rock Medical Center",
+    "city": "Round Rock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Texas Childrens Hospital North Austin Campus",
+    "city": "Austin",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ascension Seton Williamson",
+    "city": "Round Rock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "137": [
+   {
+    "name": "Healthbridge Childrens'S Hospital Of Houston",
+    "city": "Houston",
+    "type": "Childrens",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Behavioral Hospital Of Bellaire",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "138": [
+   {
+    "name": "Houston Behavioral Healthcare Hospital Llc",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "139": [],
+  "140": [],
+  "141": [
+   {
+    "name": "Memorial Hermann Northeast Hospital",
+    "city": "Humble",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Tops Surgical Specialty Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cypress Creek Hospital",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "142": [
+   {
+    "name": "Altus Houston Hospital, Lp",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "East Houston Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "143": [
+   {
+    "name": "Ad Hospital East, Llc",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "144": [],
+  "145": [
+   {
+    "name": "Memorial Hermann Hospital System",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "146": [
+   {
+    "name": "Womans Hospital Of Texas,The",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Houston Va Medical Center",
+    "city": "Houston",
+    "type": "Acute Care - Veterans Administration",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Harris County Psychiatric Center",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Sun Behavioral Houston",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "147": [
+   {
+    "name": "St Joseph Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "148": [],
+  "149": [
+   {
+    "name": "Hca Houston Healthcare West",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Houston Methodist West Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "150": []
+ },
+ "senate": {
+  "13": [
+   {
+    "name": "St Joseph Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Memorial Hermann - Texas Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor St Lukes Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Harris Health",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Houston Methodist Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Hca Houston Healthcare West",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Hca Houston Healthcare Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Womans Hospital Of Texas,The",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Houston Va Medical Center",
+    "city": "Houston",
+    "type": "Acute Care - Veterans Administration",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Texas Orthopedic Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Atrium Medical Center",
+    "city": "Stafford",
+    "type": "Long-term",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Childrens Hospital",
+    "city": "Houston",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Healthbridge Childrens'S Hospital Of Houston",
+    "city": "Houston",
+    "type": "Childrens",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Harris County Psychiatric Center",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Behavioral Hospital Of Bellaire",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Sun Behavioral Houston",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "18": [
+   {
+    "name": "Citizens Medical Center",
+    "city": "Victoria",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "De Tar Hospital Navarro",
+    "city": "Victoria",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Memorial Hospital",
+    "city": "Gonzales",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Bellville Medical Center",
+    "city": "Bellville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oakbend Medical Center",
+    "city": "Richmond",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Cuero Regional Hospital",
+    "city": "Cuero",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Memorial Hermann Sugar Land Hospital",
+    "city": "Sugar Land",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Burleson St Joseph Health Center",
+    "city": "Caldwell",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Refugio County Memorial Hospital",
+    "city": "Refugio",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Grimes St Joseph Health Center",
+    "city": "Navasota",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Yoakum Community Hospital",
+    "city": "Yoakum",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Memorial Medical Center",
+    "city": "Port Lavaca",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Lavaca Medical Center",
+    "city": "Hallettsville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Voyages Behavioral Health Of Sugar Land",
+    "city": "Sugar Land",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "St Luke'S Sugar Land Hospital",
+    "city": "Sugar Land",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Baylor Scott & White Hospital Brenham",
+    "city": "Brenham",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "20": [
+   {
+    "name": "South Texas Health System",
+    "city": "Edinburg",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Mission Regional Medical Center",
+    "city": "Mission",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Rio Grande Regional Hospital",
+    "city": "Mcallen",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Corpus Christi Medical Center,The",
+    "city": "Corpus Christi",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Cornerstone Regional Hospital",
+    "city": "Edinburg",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Doctors Hosptal At Renaissance",
+    "city": "Edinburg",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Driscoll Childrens Hospital",
+    "city": "Corpus Christi",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "1": [
+   {
+    "name": "Christus Good Shepherd Medical Center",
+    "city": "Longview",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ut Health East Texas Tyler Regional Hospital",
+    "city": "Tyler",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Christus Mother Frances Hospital",
+    "city": "Tyler",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Paris Regional Medical Center",
+    "city": "Paris",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Wadley Regional Medical Center",
+    "city": "Texarkana",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ut Health East Texas Carthage Hospital",
+    "city": "Carthage",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Christus Mother Frances Hospital Sulphur Springs",
+    "city": "Sulphur Springs",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ut Health East Texas Henderson Hospital",
+    "city": "Henderson",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Longview Regional Medical Center",
+    "city": "Longview",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Christus St Michael Health System",
+    "city": "Texarkana",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Baylor Scott & White Texas Spine & Joint Hospital",
+    "city": "Tyler",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Ut Health East Texas Pittsburg Hospital",
+    "city": "Pittsburg",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Tmc- Bonham Hospital",
+    "city": "Bonham",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ut Health East Texas Quitman Hospital",
+    "city": "Quitman",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Christus Mother Frances Hospital- Winnsboro",
+    "city": "Winnsboro",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Longview",
+    "city": "Longview",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "2": [
+   {
+    "name": "Methodist Richardson Medical Center",
+    "city": "Richardson",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott And White Medical Center Lake Pointe",
+    "city": "Rowlett",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ennis Regional Medical Center",
+    "city": "Ennis",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Terrell State Hospital",
+    "city": "Terrell",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Perimeter Behavioral Hospital Of Dallas",
+    "city": "Garland",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Rockwall",
+    "city": "Rockwall",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Baylor Scott And White Medical Center Sunnyvale",
+    "city": "Sunnyvale",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   }
+  ],
+  "3": [
+   {
+    "name": "Christus Southeast Texas- St Elizabeth",
+    "city": "Beaumont",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ut Health East Texas Jacksonville Hospital",
+    "city": "Jacksonville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Chi St Lukes Health Memorial Lufkin",
+    "city": "Lufkin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Baptist Beaumont Hospital",
+    "city": "Beaumont",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Ut Health East Texas Athens Hospital",
+    "city": "Athens",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Tyler County Hospital",
+    "city": "Woodville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Nacogdoches Memorial Hospital",
+    "city": "Nacogdoches",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Christus Jasper Memorial Hospital",
+    "city": "Jasper",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Nacogdoches Medical Center",
+    "city": "Nacogdoches",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Palestine Regional Medical Center",
+    "city": "Palestine",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Christus Mother Frances Hospital- Jacksonville",
+    "city": "Jacksonville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Sabine County Hospital",
+    "city": "Hemphill",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Liberty Dayton Regional Medical Center",
+    "city": "Liberty",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Crockett Medical Center",
+    "city": "Crockett",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Rusk State Hosp",
+    "city": "Rusk",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Lufkin Llc",
+    "city": "Lufkin",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Altus Lumberton Hospital",
+    "city": "Lumberton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Mid Coast Medical Center-Trinity",
+    "city": "Trinity",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Chi St Lukes Health Memorial San Augustine",
+    "city": "San Augustine",
+    "type": "Rural Emergency Hospital",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "4": [
+   {
+    "name": "Hca Houston Healthcare Conroe",
+    "city": "Conroe",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Tops Surgical Specialty Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hca Houston Healthcare Kingwood",
+    "city": "Kingwood",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "St Luke'S The Woodlands Hospital",
+    "city": "The Woodlands",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Bayside Community Hospital",
+    "city": "Anahuac",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Riceland Medical Center",
+    "city": "Winnie",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Kingwood Pines Hospital",
+    "city": "Kingwood",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cypress Creek Hospital",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Hermann Surgical Hospital Kingwood",
+    "city": "Kingwood",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Chi St Lukes Lakeside Hospital",
+    "city": "The Woodlands",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Aspire Hospital",
+    "city": "Conroe",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cleveland Emergency Hospital",
+    "city": "Humble",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Townsen Memorial Hospital",
+    "city": "Humble",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "The Woodlands Specialty Hospital",
+    "city": "Spring",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "5": [
+   {
+    "name": "Chi St Joseph Health Regional Hospital",
+    "city": "Bryan",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Parkview Regional Hospital",
+    "city": "Mexia",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Freestone Medical Center",
+    "city": "Fairfield",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Round Rock Medical Center",
+    "city": "Round Rock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Physicians Centre,The",
+    "city": "Bryan",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Limestone Medical Center",
+    "city": "Groesbeck",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Madison St Joseph Health Center",
+    "city": "Madisonville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center -Taylor",
+    "city": "Taylor",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Georgetown Behavioral Health Institute",
+    "city": "Georgetown",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center - Round Rock",
+    "city": "Round Rock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ascension Seton Williamson",
+    "city": "Round Rock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ascension Seton Cedar Park",
+    "city": "Cedar Park",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Ascension Seton Smithville",
+    "city": "Smithville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "6": [
+   {
+    "name": "Ad Hospital East, Llc",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Altus Houston Hospital, Lp",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "East Houston Medical Center",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "7": [
+   {
+    "name": "Memorial Hermann Memorial City Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Hca Houston Healthcare Tomball",
+    "city": "Tomball",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Lone Star Behavioral Health Cypress",
+    "city": "Cypress",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Woodland Springs",
+    "city": "Conroe",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "St Luke'S Hospital At The Vintage",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Houston Methodist West Hospital",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   }
+  ],
+  "8": [
+   {
+    "name": "Hunt Regional Medical Center",
+    "city": "Greenville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Medical Center Of Mckinney",
+    "city": "Mckinney",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Medical City Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Allen",
+    "city": "Allen",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Center For Diagnostics & Surgery Plan",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Childrens Medical Center Plano",
+    "city": "Plano",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Glen Oaks Hospital",
+    "city": "Greenville",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White The Heart Hospital Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Methodist Mckinney Hospital",
+    "city": "Mckinney",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott And White  Medical Center  Mckinney",
+    "city": "Mc Kinney",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Legent Surgical Hospital Plano",
+    "city": "Plano",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "9": [
+   {
+    "name": "Texas Health Arlington Memorial Hospital",
+    "city": "Arlington",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Medical City North Hills",
+    "city": "North Richland Hills",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Texas Health Harris Methodist Fort Worth",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott And White All Saints Medical Center",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hospital Azle",
+    "city": "Azle",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hurst-Euless-Bedford",
+    "city": "Bedford",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Medical City Fort Worth",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Baylor Scott And White Surgical Hospital Fortworth",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hospital Southlake",
+    "city": "Southlake",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cook Childrens Medical Center",
+    "city": "Fort Worth",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Millwood Hospital",
+    "city": "Arlington",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Health Heart & Vascular Hospital Arlington",
+    "city": "Arlington",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hospital Alliance",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Medical City Alliance",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Saint Camillus Medical Center",
+    "city": "Hurst",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "10": [
+   {
+    "name": "Jps Health Network",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hospital Cleburne",
+    "city": "Cleburne",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Palo Pinto General Hospital",
+    "city": "Mineral Wells",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Hendrick Medical Center Brownwood",
+    "city": "Brownwood",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hospital Southwest F",
+    "city": "Fort Worth",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Mesa Springs",
+    "city": "Fort Worth",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Wellbridge Healthcare Fort Worth",
+    "city": "Fort Worth",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott And White Emergency Hospital",
+    "city": "Burleson",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Stephens Memorial Hospital",
+    "city": "Breckenridge",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "11": [
+   {
+    "name": "University Of Texas Medical Branch Galveston",
+    "city": "Galveston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Hca Houston Healthcare Southeast",
+    "city": "Pasadena",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Houston Methodist Baytown Hospital",
+    "city": "Baytown",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Houston Methodist Clear Lake Hospital",
+    "city": "Nassau Bay",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Surgery Specialty Hospitals Of America Se Houston",
+    "city": "Pasadena",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Shriners Hospitals For Children",
+    "city": "Galveston",
+    "type": "Childrens",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Pasadena",
+    "city": "Pasadena",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Medical Behavioral Hospital Of Clear Lake, Llc",
+    "city": "Clear Lake City",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Hermann Houston Physicians Hospital",
+    "city": "Webster",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "St Luke'S Patients Medical Center",
+    "city": "Pasadena",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Baytown Medical Center Lp",
+    "city": "Baytown",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "12": [
+   {
+    "name": "Dallas Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Carrollton Regional Medical Center",
+    "city": "Carrollton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Medical City Las Colinas",
+    "city": "Irving",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "North Central Surgical Center Llp",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Flower Mound",
+    "city": "Flower Mound",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Methodist Hospital For Surgery",
+    "city": "Addison",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "14": [
+   {
+    "name": "Ascension Seton Medical Center Austin",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Dell Seton  Med Center At The University Of Tx",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "4"
+   },
+   {
+    "name": "St David'S Medical Center",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "St David'S South Austin Medical Center",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Northwest Hills Surgical Hospital",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "North Austin Medical Center",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Ascension Seton  Southwest",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ascension Seton Northwest",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Dell Children'S Medical Center",
+    "city": "Austin",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Austin State Hospital",
+    "city": "Austin",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cross Creek Hospital",
+    "city": "Austin",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "The Hospital At Westlake Medical Center",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center Pflugerville",
+    "city": "Pflugerville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center- Austin",
+    "city": "Austin",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "15": [
+   {
+    "name": "Memorial Hermann Hospital System",
+    "city": "Houston",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Memorial Hermann Northeast Hospital",
+    "city": "Humble",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Houston Behavioral Healthcare Hospital Llc",
+    "city": "Houston",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Legent North Houston Surgical Hospital",
+    "city": "Bellaire",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "16": [
+   {
+    "name": "Baylor Scott & White Medical Center At Irving",
+    "city": "Irving",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Baylor Scott And White Medical Center Uptown",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Dallas",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Medical City Dallas Hospital",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Dallas Regional Medical Center",
+    "city": "Mesquite",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Texas Institute For Surgery At Presbyterian Hospit",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Nexus Childrens Hospital Dallas",
+    "city": "Dallas",
+    "type": "Childrens",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Medical City Green Oaks Hospital",
+    "city": "Dallas",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "17": [
+   {
+    "name": "Chi St Luke'S Health Brazosport",
+    "city": "Lake Jackson",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Columbus Community Hospital",
+    "city": "Columbus",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Matagorda Regional Medical Center",
+    "city": "Bay City",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "El Campo Memorial Hospital",
+    "city": "El Campo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Sweeny Community Hospital",
+    "city": "Sweeny",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Rice Medical Center",
+    "city": "Eagle Lake",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Palacios Community Medical Center",
+    "city": "Palacios",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Jackson Healthcare Center",
+    "city": "Edna",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Katy",
+    "city": "Katy",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "19": [
+   {
+    "name": "Fort Duncan Medical Center",
+    "city": "Eagle Pass",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Guadalupe Regional Medical Center",
+    "city": "Seguin",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Val Verde Regional Medical Center",
+    "city": "Del Rio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Uvalde Memorial Hospital",
+    "city": "Uvalde",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "San Antonio State Hosp  State School",
+    "city": "San Antonio",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center- College Stati",
+    "city": "College Station",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Texas Center For Infectious Disease",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "21": [
+   {
+    "name": "Laredo Medical Center",
+    "city": "Laredo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Connally Memorial Medical Center",
+    "city": "Floresville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Christus Santa Rosa Hospital-San Marcos",
+    "city": "San Marcos",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Doctors Hospital Of Laredo",
+    "city": "Laredo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Starr County Memorial Hospital",
+    "city": "Rio Grande City",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Otto Kaiser Memorial Hospital",
+    "city": "Kenedy",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ascension Seton Edgar B Davis",
+    "city": "Luling",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Dimmit Regional Hospital",
+    "city": "Carrizo Springs",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ascension  Seton Hays",
+    "city": "Kyle",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   }
+  ],
+  "22": [
+   {
+    "name": "Ascension Providence",
+    "city": "Waco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Texas Health Harris Methodist Hospital Stephenvill",
+    "city": "Stephenville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Glen Rose Medical Center",
+    "city": "Glen Rose",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Lake Granbury Medical Center",
+    "city": "Granbury",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Usmd Hospital At Arlington L P",
+    "city": "Arlington",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Comanche County Medical Center",
+    "city": "Comanche",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Hamilton General Hospital",
+    "city": "Hamilton",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Waco",
+    "city": "Waco",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Methodist Mansfield Medical Center",
+    "city": "Mansfield",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott And White Orthopedic And Spine Hospi",
+    "city": "Arlington",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Falls Community Hospital And Clinic",
+    "city": "Marlin",
+    "type": "Rural Emergency Hospital",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Eastland Memorial Hospital",
+    "city": "Eastland",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "23": [
+   {
+    "name": "Parkland Health & Hospital System",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Baylor University Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Ut Of Texas  Southwestern University Hospital - William P. Clements Jr.",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Methodist Dallas Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Dallas Va Medical Center (Va North Texas Healthcare System)",
+    "city": "Dallas",
+    "type": "Acute Care - Veterans Administration",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "White Rock Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Methodist Charlton Medical Center",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Baylor Scott & White Heart & Vascular Hospital - Dallas",
+    "city": "Dallas",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Childrens Medical Ctr Of Dallas",
+    "city": "Dallas",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Scottish Rite Hospital For Children",
+    "city": "Dallas",
+    "type": "Childrens",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hickory Trail Hospital",
+    "city": "Desoto",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Dallas Behavioral Healthcare Hospital Llc",
+    "city": "De Soto",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "24": [
+   {
+    "name": "Peterson Regional Medical Center",
+    "city": "Kerrville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center - Temple",
+    "city": "Temple",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Adventhealth Central Texas",
+    "city": "Killeen",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Methodist Hospital Atascosa",
+    "city": "Jourdanton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Hill Country Memorial Hospital",
+    "city": "Fredericksburg",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Kimble Hospital",
+    "city": "Junction",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Adventhealth Rollins Brook",
+    "city": "Lampasas",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Lillian M Hudspeth Memorial Hospital",
+    "city": "Sonora",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Medina Regional Hospital",
+    "city": "Hondo",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Coryell Memorial Hospital",
+    "city": "Gatesville",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Mid Coast Medical Center - Central",
+    "city": "Llano",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Texas Childrens Hospital North Austin Campus",
+    "city": "Austin",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Canyon Creek Behavioral Health",
+    "city": "Temple",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center - Marble Falls",
+    "city": "Marble Falls",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   }
+  ],
+  "25": [
+   {
+    "name": "South Texas Spine And Surgical Hospital",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Laurel Ridge Treatment Center",
+    "city": "San Antonio",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Methodist Hospital  Stone Oak",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baptist Neighborhood Hospital Thousand Oaks",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Resolute Health Hospital",
+    "city": "New Braunfels",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Legent Orthopedic + Spine",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "26": [
+   {
+    "name": "Baptist Medical Center",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "University Health System",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Methodist Hospital",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Brooke Army Medical Center (Ft Sam Houston)",
+    "city": "Fort Sam Houston",
+    "type": "Acute Care - Department of Defense",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "San Antonio Va Medical Center (Va South Texas Healthcare System)",
+    "city": "San Antonio",
+    "type": "Acute Care - Veterans Administration",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Children'S Hospital Of San Antonio",
+    "city": "San Antonio",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "San Antonio Behavioral Healthcare Hospital",
+    "city": "San Antonio",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cedar Hills Behavioral",
+    "city": "San Antonio",
+    "type": "Psychiatric",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Foundation Surgical Hospital Of San Antonio",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Bandera Family Hospital",
+    "city": "San Antonio",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "27": [
+   {
+    "name": "Valley Baptist Medical Center- Brownsville",
+    "city": "Brownsville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Vhs Harlingen Hospital Company Llc",
+    "city": "Harlingen",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Christus Spohn Hospital Beeville",
+    "city": "Beeville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Knapp Medical Center",
+    "city": "Weslaco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Christus Spohn Hospital Kleberg",
+    "city": "Kingsville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Valley Regional Medical Center",
+    "city": "Brownsville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Rio Grande State Center",
+    "city": "Harlingen",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "28": [
+   {
+    "name": "Covenant Medical Center",
+    "city": "Lubbock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Rolling Plains Memorial Hospital",
+    "city": "Sweetwater",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Grace Surgical Hospital",
+    "city": "Lubbock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hendrick Medical Center",
+    "city": "Abilene",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Brownfield Regional Medical Center",
+    "city": "Brownfield",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Covenant Hospital Plainview",
+    "city": "Plainview",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Shannon Medical Center",
+    "city": "San Angelo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Wilbarger General Hospital",
+    "city": "Vernon",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "University Medical Center",
+    "city": "Lubbock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Lamb Healthcare Center",
+    "city": "Littlefield",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Covenant Hospital Levelland",
+    "city": "Levelland",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Lubbock Heart Hospital Lp",
+    "city": "Lubbock",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Ballinger Memorial Hospital",
+    "city": "Ballinger",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Fisher County Hospital District",
+    "city": "Rotan",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "North Runnels Hospital",
+    "city": "Winters",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Stonewall Memorial Hospital District",
+    "city": "Aspermont",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Parkview Hospital",
+    "city": "Wheeler",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "W J Mangold Memorial Hospital",
+    "city": "Lockney",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Throckmorton County Memorial Hospital",
+    "city": "Throckmorton",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Shamrock General Hospital",
+    "city": "Shamrock",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Haskell Memorial Hospital",
+    "city": "Haskell",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Electra Memorial Hospital",
+    "city": "Electra",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Coleman County Medical Center Company",
+    "city": "Coleman",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Lynn County Hospital District",
+    "city": "Tahoka",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hardeman County Memorial Hospital",
+    "city": "Quanah",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Collingsworth General Hospital",
+    "city": "Wellington",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Knox County Hospital",
+    "city": "Knox City",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Seymour Hospital",
+    "city": "Seymour",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Covenant Childrens Hospital",
+    "city": "Lubbock",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Starcare Specialty Health /Sunrise Canyon Hospital",
+    "city": "Lubbock",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Allegiance Behavioral Health Center Of Plainview",
+    "city": "Plainview",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Abilene",
+    "city": "Abilene",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Lubbock",
+    "city": "Lubbock",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Crosbyton Clinic Hospital",
+    "city": "Crosbyton",
+    "type": "Rural Emergency Hospital",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Anson General Hospital",
+    "city": "Anson",
+    "type": "Rural Emergency Hospital",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "29": [
+   {
+    "name": "The Hospitals Of Providence - Memorial Campus",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "University Medical Center Of El Paso",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Las Palmas Medical Center A Campus Of Lpds Healthc",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Sierra Medical Center",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Reeves Regional Health",
+    "city": "Pecos",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Big Bend Regional Medical Center",
+    "city": "Alpine",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "El Paso Children'S Hospital",
+    "city": "El Paso",
+    "type": "Childrens",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "El Paso Psychiatric Center",
+    "city": "El Paso",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "El Paso Behavioral Health System",
+    "city": "El Paso",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Rio Vista Behavioral Health",
+    "city": "El Paso",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "The Hospitals Of Providence - East Campus",
+    "city": "El Paso",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "The Hospitals Of Providence Horizon City Campus",
+    "city": "Horizon City",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ],
+  "30": [
+   {
+    "name": "United Regional Health Care System",
+    "city": "Wichita Falls",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Medical City Weatherford",
+    "city": "Weatherford",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Wilson N Jones Regional Medical Center",
+    "city": "Sherman",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Medical City Denton",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Nocona General Hospital",
+    "city": "Nocona",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "1"
+   },
+   {
+    "name": "Medical City Lewisville",
+    "city": "Lewisville",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Texas Health Presbyterian Hospital Denton",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Baylor Scott & White Medical Center - Frisco",
+    "city": "Frisco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Baylor Scott &  White Medical Center - Centennial",
+    "city": "Frisco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "The Heart Hospital Baylor Denton",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Baylor Scott White The Heart Hospital Corinth",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Muenster Memorial Hospital",
+    "city": "Muenster",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Clay County Memorial Hospital",
+    "city": "Henrietta",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "North Texas State Hospital",
+    "city": "Wichita Falls",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Red River Hospital",
+    "city": "Wichita Falls",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "University Behavioral Health Of Denton",
+    "city": "Denton",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Carrollton Springs",
+    "city": "Carrollton",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Carrus Behavioral Hospital",
+    "city": "Sherman",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Medical City Mental Health And Wellness Center",
+    "city": "Frisco",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Mayhill Hospital",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott & White Emergency Hospital",
+    "city": "Aubrey",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Baylor Scott And White Surgical Hospital At Sherma",
+    "city": "Sherman",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Texas Health Hospital Frisco",
+    "city": "Frisco",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "4"
+   },
+   {
+    "name": "Baylor Scott And White The Heart Hospital Corinth",
+    "city": "Denton",
+    "type": "Acute Care Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   }
+  ],
+  "31": [
+   {
+    "name": "Medical Center Hospital",
+    "city": "Odessa",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Permian Regional Medical Center Andrews County Ho",
+    "city": "Andrews",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hereford Regional Medical Center",
+    "city": "Hereford",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Northwest Texas Hospital",
+    "city": "Amarillo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Bsa Hospital",
+    "city": "Amarillo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "2"
+   },
+   {
+    "name": "Va Amarillo Healthcare System",
+    "city": "Amarillo",
+    "type": "Acute Care - Veterans Administration",
+    "emergency": "Yes",
+    "rating": "5"
+   },
+   {
+    "name": "Scenic Mountain Medical Center",
+    "city": "Big Spring",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Odessa Regional Medical Center",
+    "city": "Odessa",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "3"
+   },
+   {
+    "name": "Quail Creek Surgical Hospital",
+    "city": "Amarillo",
+    "type": "Acute Care Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Parmer County Community Hospital",
+    "city": "Friona",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Reagan Memorial Hospital",
+    "city": "Big Lake",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Schleicher County Medical Center",
+    "city": "Eldorado",
+    "type": "Critical Access Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Yoakum County Hospital",
+    "city": "Denver City",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Winkler County Memorial Hospital",
+    "city": "Kermit",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Coon Memorial Hospital",
+    "city": "Dalhart",
+    "type": "Critical Access Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hansford County Hospital",
+    "city": "Spearman",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Swisher Memorial Hospital",
+    "city": "Tulia",
+    "type": "Critical Access Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Plains Memorial Hospital",
+    "city": "Dimmitt",
+    "type": "Critical Access Hospitals",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Crane County Hospital District",
+    "city": "Crane",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Hospital",
+    "city": "Seminole",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ochiltree General Hospital",
+    "city": "Perryton",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cochran Memorial Hospital",
+    "city": "Morton",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Golden Plains Community Hospital",
+    "city": "Borger",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Ward Memorial Hospital",
+    "city": "Monahans",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Cogdell Memorial Hospital",
+    "city": "Snyder",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Memorial Hospital",
+    "city": "Dumas",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Big Spring State Hospital",
+    "city": "Big Spring",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Oceans Behavioral Hospital Of Amarillo",
+    "city": "Amarillo",
+    "type": "Psychiatric",
+    "emergency": "No",
+    "rating": "Not Available"
+   },
+   {
+    "name": "Hemphill County Hospital",
+    "city": "Canadian",
+    "type": "Critical Access Hospitals",
+    "emergency": "Yes",
+    "rating": "Not Available"
+   }
+  ]
+ }
+}
