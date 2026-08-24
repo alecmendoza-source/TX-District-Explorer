@@ -40,6 +40,20 @@ module.exports = async (req, res) => {
 
   try {
     const censusRes = await fetch(url);
+    const contentType = censusRes.headers.get("content-type") || "";
+
+    if (!contentType.includes("json")) {
+      // Census sends an HTML page (not JSON) when the key is missing,
+      // malformed, or invalid — catch that here with a clear message
+      // instead of letting JSON parsing crash below.
+      const text = await censusRes.text();
+      let reason = "Census did not return data (likely an invalid or missing API key).";
+      if (text.includes("missing_key")) reason = "No API key was received by Census — check the key parameter.";
+      if (text.includes("invalid_key")) reason = "Census rejected the API key as invalid — double check it was copied correctly with no extra spaces.";
+      res.status(502).json({ error: reason });
+      return;
+    }
+
     if (!censusRes.ok) {
       const text = await censusRes.text();
       res.status(censusRes.status).json({ error: `Census API error: ${text.slice(0, 300)}` });
