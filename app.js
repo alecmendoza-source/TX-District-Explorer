@@ -20,6 +20,13 @@ const CENSUS_VARS = {
   DP05_0037PE: "Percent White (not Hispanic)",
   DP05_0071PE: "Percent Hispanic or Latino",
   DP05_0038PE: "Percent Black or African American",
+  // Economic indicators (Phase 2 addition)
+  DP03_0025E: "Mean commute time (minutes)",
+  DP03_0026PE: "Percent working from home",
+  DP03_0033PE: "Percent employed in education/health services",
+  DP03_0038PE: "Percent employed in manufacturing",
+  DP03_0095PE: "Percent without health insurance",
+  DP04_0089E: "Median home value ($)",
 };
 const CENSUS_YEAR = 2023; // ACS 5-year release; bump this yearly
 
@@ -31,6 +38,19 @@ let currentChamber = "house";
 let layerCache = { house: null, senate: null }; // holds Leaflet GeoJSON layers
 let featureIndex = { house: [], senate: [] }; // flat list for search
 let activeLayerRef = null;
+let schoolDistrictData = null; // loaded once from data/school_districts.json
+
+async function loadSchoolDistrictData() {
+  if (schoolDistrictData) return schoolDistrictData;
+  try {
+    const res = await fetch("data/school_districts.json");
+    schoolDistrictData = await res.json();
+  } catch (err) {
+    console.error("Couldn't load school district data:", err);
+    schoolDistrictData = { house: {}, senate: {} };
+  }
+  return schoolDistrictData;
+}
 
 // ---------------------------------------------------------------
 // Init
@@ -117,8 +137,12 @@ async function openDistrict(chamber, feature, lyr) {
 
   showSidebarSkeleton(chamberLabel, props.district, repName);
 
-  const census = await fetchCensusData(chamber, props.district);
-  renderReport(chamberLabel, props.district, repName, census);
+  const [census, schoolData] = await Promise.all([
+    fetchCensusData(chamber, props.district),
+    loadSchoolDistrictData(),
+  ]);
+  const isdList = (schoolData[chamber] && schoolData[chamber][String(props.district)]) || [];
+  renderReport(chamberLabel, props.district, repName, census, isdList);
 }
 
 function showSidebarSkeleton(chamberLabel, district, repName) {
@@ -131,7 +155,7 @@ function showSidebarSkeleton(chamberLabel, district, repName) {
   `;
 }
 
-function renderReport(chamberLabel, district, repName, census) {
+function renderReport(chamberLabel, district, repName, census, isdList) {
   const rows = census
     ? Object.entries(CENSUS_VARS)
         .map(([code, label]) => {
@@ -154,11 +178,20 @@ function renderReport(chamberLabel, district, repName, census) {
     </div>
 
     <div class="report-section">
+      <h3>School districts (${isdList.length})</h3>
+      ${
+        isdList.length
+          ? `<p class="isd-list">${isdList.join(", ")}</p>`
+          : `<p class="muted">No school district overlap data found for this district.</p>`
+      }
+    </div>
+
+    <div class="report-section">
       <h3>Additional layers</h3>
       <p class="muted">
-        School districts, hospitals, higher-ed institutions, and economic data
-        for this district will appear here once those layers are added
-        (Phase 2 of the build).
+        Hospitals and higher-ed institutions for this district will appear
+        here once those layers are added (sourcing decision pending — see
+        the build discussion).
       </p>
     </div>
 
